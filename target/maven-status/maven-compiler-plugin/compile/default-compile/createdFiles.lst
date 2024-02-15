@@ -1,0 +1,8 @@
+telran\probes\dto\ProbeDataDeviation.class
+telran\probes\api\UrlConstants.class
+telran\probes\dto\SensorEmailsDto.class
+telran\probes\dto\ProbeData.class
+telran\probes\dto\ErrorMessages.class
+telran\probes\dto\SensorRange.class
+telran\security\accounting\dto\AccountDto.class
+telran\probes\dto\SensorRangeDto.class
